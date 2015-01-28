@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.andrewberls.advanced;
+package edu.ucsb.cs56.w15.drawings.andrewberls.advanced;
 
 
 import java.awt.Rectangle;
@@ -11,8 +11,8 @@ import java.awt.geom.Point2D;
 import java.awt.geom.Rectangle2D;
 import java.awt.geom.Ellipse2D;
 
-import edu.ucsb.cs56.w14.drawings.utilities.ShapeTransforms;
-import edu.ucsb.cs56.w14.drawings.utilities.GeneralPathWrapper;
+import edu.ucsb.cs56.w15.drawings.utilities.ShapeTransforms;
+import edu.ucsb.cs56.w15.drawings.utilities.GeneralPathWrapper;
 
 /**
    A vector drawing of an Ipod that implements
