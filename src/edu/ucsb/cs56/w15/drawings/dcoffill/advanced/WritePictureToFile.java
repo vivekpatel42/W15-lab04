@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.dcoffill.advanced;
+package edu.ucsb.cs56.w15.drawings.dcoffill.advanced;
 import java.awt.image.BufferedImage;
 import java.awt.Graphics2D;
 import java.awt.Color;
@@ -7,8 +7,8 @@ import javax.imageio.ImageIO;
 import java.io.IOException;
 
 
-import edu.ucsb.cs56.w14.drawings.utilities.ShapeTransforms;
-import edu.ucsb.cs56.w14.drawings.utilities.GeneralPathWrapper;
+import edu.ucsb.cs56.w15.drawings.utilities.ShapeTransforms;
+import edu.ucsb.cs56.w15.drawings.utilities.GeneralPathWrapper;
 
 
 /**
@@ -64,7 +64,7 @@ public class WritePictureToFile
      Graphics2D g2 = bi.createGraphics();
       
      if (whichPicture.equals("1")) {
-	 edu.ucsb.cs56.w14.drawings.dcoffill.advanced.AllMyDrawings.drawPicture1(g2);
+	 edu.ucsb.cs56.w15.drawings.dcoffill.advanced.AllMyDrawings.drawPicture1(g2);
      } else if (whichPicture.equals("2")) {
 	 AllMyDrawings.drawPicture2(g2);
      } else if (whichPicture.equals("3")) {

@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.jstaahl.advanced;
+package edu.ucsb.cs56.w15.drawings.jstaahl.advanced;
 
 import java.awt.BasicStroke;
 import java.awt.Color; // class for Colors

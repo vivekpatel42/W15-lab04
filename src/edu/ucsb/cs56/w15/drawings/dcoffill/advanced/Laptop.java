@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.dcoffill.advanced;
+package edu.ucsb.cs56.w15.drawings.dcoffill.advanced;
 import java.awt.geom.GeneralPath; // combinations of lines and curves
 import java.awt.geom.AffineTransform; // translation, rotation, scale
 import java.awt.Shape; // general class for shapes
@@ -11,8 +11,8 @@ import java.awt.Rectangle;
 import java.awt.geom.PathIterator;
 import java.awt.geom.AffineTransform;
 
-import edu.ucsb.cs56.w14.drawings.utilities.ShapeTransforms;
-import edu.ucsb.cs56.w14.drawings.utilities.GeneralPathWrapper;
+import edu.ucsb.cs56.w15.drawings.utilities.ShapeTransforms;
+import edu.ucsb.cs56.w15.drawings.utilities.GeneralPathWrapper;
 
 /**
  A vector drawing of a laptop that implements

@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.dcoffill.advanced;
+package edu.ucsb.cs56.w15.drawings.dcoffill.advanced;
 
 import java.awt.Graphics2D;
 import java.awt.geom.Line2D;  // single lines
@@ -13,8 +13,8 @@ import java.awt.Stroke;
 import java.awt.BasicStroke;
 
 
-import edu.ucsb.cs56.w14.drawings.utilities.ShapeTransforms;
-import edu.ucsb.cs56.w14.drawings.utilities.GeneralPathWrapper;
+import edu.ucsb.cs56.w15.drawings.utilities.ShapeTransforms;
+import edu.ucsb.cs56.w15.drawings.utilities.GeneralPathWrapper;
 
 /**
  * A class with static methods for drawing various pictures
