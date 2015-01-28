@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.jrcryan.advanced;
+package edu.ucsb.cs56.w15.drawings.jrcryan.advanced;
 import java.awt.image.BufferedImage;
 import java.awt.Graphics2D;
 import java.awt.Color;
@@ -7,8 +7,8 @@ import javax.imageio.ImageIO;
 import java.io.IOException;
 
 
-import edu.ucsb.cs56.w14.drawings.utilities.ShapeTransforms;
-import edu.ucsb.cs56.w14.drawings.utilities.GeneralPathWrapper;
+import edu.ucsb.cs56.w15.drawings.utilities.ShapeTransforms;
+import edu.ucsb.cs56.w15.drawings.utilities.GeneralPathWrapper;
 
 
 /**

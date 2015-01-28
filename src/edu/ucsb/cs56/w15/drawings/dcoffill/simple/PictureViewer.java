@@ -1,4 +1,4 @@
-package edu.ucsb.cs56.w14.drawings.dcoffill.simple;
+package edu.ucsb.cs56.w15.drawings.dcoffill.simple;
 import javax.swing.JFrame;
 
 /** A viewer class to see a picture I drew with 
