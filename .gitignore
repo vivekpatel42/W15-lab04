@@ -1,4 +1,7 @@
+*~ # emacs back up files
 *.class
+
+javadoc/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
