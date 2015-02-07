@@ -20,7 +20,7 @@ public class SimpleGui1 {
     public static void main (String[] args) {
 	JFrame frame = new JFrame() ;
 	JButton button = new JButton("oh yes pls");
-	Color myColor = new Color(0, 51, 51);
+	Color myColor = new Color(0, 153, 153);
 	button.setBackground(myColor);
 	button.setOpaque(true);
 	frame. setDefaultCloseOperation(JFrame. EXIT_ON_CLOSE) ;
