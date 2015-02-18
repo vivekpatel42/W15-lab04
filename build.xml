@@ -43,7 +43,7 @@
  <target name="javadoc" depends="compile" description="publish javadoc"> 
    <delete dir="javadoc" quiet="true" /> 
    <javadoc  destdir="javadoc" author="true" version="true" use="true" >
-     <fileset dir="src" includes="**/*.java"/>
+     <fileset dir="src/edu/ucsb/cs56/w15/drawings/vivek_patel" includes="**/*.java"/>
      <classpath refid="project.class.path" />
      <link href="${javadocLink}" /> <!-- for external links to std API classes -->
    </javadoc>
