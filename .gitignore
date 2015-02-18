@@ -1,5 +1,6 @@
 *~ # emacs back up files
 *.class
+*.java~ #java backup files
 
 javadoc/
 
