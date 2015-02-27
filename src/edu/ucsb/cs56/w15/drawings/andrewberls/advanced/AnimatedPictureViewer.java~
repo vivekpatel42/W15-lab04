@@ -1,10 +1,10 @@
-package edu.ucsb.cs56.w14.drawings.andrewberls.advanced;
+package edu.ucsb.cs56.w15.drawings.andrewberls.advanced;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class IpodAnimation {
+public class AnimatedPictureViewer {
 
     private DrawPanel panel = new DrawPanel();
     
@@ -18,7 +18,7 @@ public class IpodAnimation {
     private int dx = 5;
 
     public static void main (String[] args) {
-      new IpodAnimation().go();
+      new AnimatedPictureViewer().go();
     }
 
     public void go() {
